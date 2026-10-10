@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "2.7.0",
-  "apkUrl": "https://github.com/javese/philosopher-ai-releases/releases/download/v2.7.0/PhilosopherAI-2.7.0-confucius-buddha-jesus-ota-debug.apk",
-  "sha256": "64A6543D36D7C01A324569736CD72051A365B82E10192A4788B49B1A39BA17F9",
-  "releaseNotes": "新增孔子、释迦牟尼和耶稣；新增应用内 OTA 检查、下载、SHA-256 校验与系统安装。"
+  "versionCode": 21,
+  "versionName": "2.8.0",
+  "apkUrl": "https://github.com/javese/philosopher-ai-releases/releases/download/v2.8.0/PhilosopherAI-2.8.0-schopenhauer-hegel-nietzsche-debug.apk",
+  "sha256": "D7903041A1A889303BD3E2962B9C3698CE63D9C93BFB6DB165CE6A4B1679EC45",
+  "releaseNotes": "新增叔本华、黑格尔和尼采，并增加 MOBI 知识库解析支持。"
 }
