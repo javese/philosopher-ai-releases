@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "2.8.0",
-  "apkUrl": "https://github.com/javese/philosopher-ai-releases/releases/download/v2.8.0/PhilosopherAI-2.8.0-schopenhauer-hegel-nietzsche-debug.apk",
-  "sha256": "D7903041A1A889303BD3E2962B9C3698CE63D9C93BFB6DB165CE6A4B1679EC45",
-  "releaseNotes": "新增叔本华、黑格尔和尼采，并增加 MOBI 知识库解析支持。"
+  "versionCode": 22,
+  "versionName": "2.8.1",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.8.1/PhilosopherAI-2.8.1-ghproxy-ota-debug.apk",
+  "sha256": "5FD41FCB29326DC641ED0AC6579F2BFCF28FA586116DEE2EDADF0BC2D21E2B42",
+  "releaseNotes": "OTA 清单与 APK 下载均默认通过 GH-Proxy 访问。"
 }
