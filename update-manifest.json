@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "2.10.0",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.10.0/PhilosopherAI-2.10.0-standalone-knowledge-debug.apk",
-  "sha256": "F5232DE415CD4864AFE87600AAB93792FE08A2F1E4A950F4D89FB8F46CB7DA64",
-  "releaseNotes": "知识库已完整内置到 APK，手机端可脱离 NAS 进行本地检索并直接调用用户配置的 LLM。"
+  "versionCode": 26,
+  "versionName": "2.11.0",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.11.0/PhilosopherAI-2.11.0-buffett-conversation-transfer.apk",
+  "sha256": "44D70E5C280AFFA45DCCA47580A8064F65502CE55B786C7945DCCC449D6CAA37",
+  "releaseNotes": "新增沃伦·巴菲特及其内置知识库；新增全部会话 JSON 导出与合并导入；采用永久固定发布签名。旧签名版本需卸载后安装一次。"
 }
