@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2.9.0",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.9.0/PhilosopherAI-2.9.0-tang-song-poetry-debug.apk",
-  "sha256": "610CCF695BEE5D38E84CCE302905DD39EDF62FE1A1A08E872362DE043320F7E7",
-  "releaseNotes": "新增唐宋诗词专题，知识库基于《中华好诗词·唐宋诗词名家精品类编》。"
+  "versionCode": 24,
+  "versionName": "2.10.0",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.10.0/PhilosopherAI-2.10.0-standalone-knowledge-debug.apk",
+  "sha256": "F5232DE415CD4864AFE87600AAB93792FE08A2F1E4A950F4D89FB8F46CB7DA64",
+  "releaseNotes": "知识库已完整内置到 APK，手机端可脱离 NAS 进行本地检索并直接调用用户配置的 LLM。"
 }
