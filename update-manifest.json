@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.11.0",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.11.0/PhilosopherAI-2.11.0-buffett-conversation-transfer.apk",
-  "sha256": "44D70E5C280AFFA45DCCA47580A8064F65502CE55B786C7945DCCC449D6CAA37",
-  "releaseNotes": "新增沃伦·巴菲特及其内置知识库；新增全部会话 JSON 导出与合并导入；采用永久固定发布签名。旧签名版本需卸载后安装一次。"
+  "versionCode": 28,
+  "versionName": "2.12.1",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.12.1/PhilosopherAI-2.12.1-markdown.apk",
+  "sha256": "A396B9A63D1EA6A7755B01E719E10F99A845B8F898EE54E407B39863B47D1510",
+  "releaseNotes": "新增 Sign in with ChatGPT，可使用符合条件的 ChatGPT Plus/Pro 套餐额度；回复区新增安全的 Markdown 渲染。"
 }
