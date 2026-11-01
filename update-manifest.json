@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "2.12.1",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.12.1/PhilosopherAI-2.12.1-markdown.apk",
-  "sha256": "A396B9A63D1EA6A7755B01E719E10F99A845B8F898EE54E407B39863B47D1510",
-  "releaseNotes": "新增 Sign in with ChatGPT，可使用符合条件的 ChatGPT Plus/Pro 套餐额度；回复区新增安全的 Markdown 渲染。"
+  "versionCode": 29,
+  "versionName": "2.13.0",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.13.0/PhilosopherAI-2.13.0-albert-ellis.apk",
+  "sha256": "7E17086D57BE265BE21093C31CE7F497B80E9DA3DB9961844DE31C360CED067B",
+  "releaseNotes": "新增哲人阿尔伯特·埃利斯，内置基于用户 EPUB 构建的离线知识库，以理性情绪行为疗法（REBT）回应问题。"
 }
