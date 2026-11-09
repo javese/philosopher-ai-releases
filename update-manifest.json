@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.13.0",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.13.0/PhilosopherAI-2.13.0-albert-ellis.apk",
-  "sha256": "7E17086D57BE265BE21093C31CE7F497B80E9DA3DB9961844DE31C360CED067B",
-  "releaseNotes": "新增哲人阿尔伯特·埃利斯，内置基于用户 EPUB 构建的离线知识库，以理性情绪行为疗法（REBT）回应问题。"
+  "versionCode": 30,
+  "versionName": "2.14.0",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.14.0/PhilosopherAI-2.14.0.apk",
+  "sha256": "507E1E69A8622BED12BC7F24CCE126D8AEAF230CCE972ABCD71A9980388860BB",
+  "releaseNotes": "优化哲学话题的角色回应边界；网页版支持 Markdown；服务器版增加一键启动和 Sign in with ChatGPT。"
 }
