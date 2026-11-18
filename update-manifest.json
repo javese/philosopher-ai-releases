@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.14.0",
-  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.14.0/PhilosopherAI-2.14.0.apk",
-  "sha256": "507E1E69A8622BED12BC7F24CCE126D8AEAF230CCE972ABCD71A9980388860BB",
-  "releaseNotes": "优化哲学话题的角色回应边界；网页版支持 Markdown；服务器版增加一键启动和 Sign in with ChatGPT。"
+  "versionCode": 31,
+  "versionName": "2.15.0",
+  "apkUrl": "https://gh-proxy.org/https://github.com/javese/philosopher-ai-releases/releases/download/v2.15.0/PhilosopherAI-2.15.0.apk",
+  "sha256": "6265B499505A5DA0576078AD60906BB914B661B9AD997DD77DB3ED0084B8D669",
+  "releaseNotes": "新增 Seymour Papert 及三本离线知识库；网页版切换哲人时保留各自对话；增强 Android Markdown 粗体兼容性。"
 }
